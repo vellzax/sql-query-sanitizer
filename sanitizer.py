@@ -1,0 +1,1 @@
+def clean(q): return q.replace(';', '')
